@@ -6,14 +6,12 @@ namespace SimpleCalculator
     {
         public static int Add(int a, int b)
         {
-            //TODO :Delete line below and write your own solution 
-            throw new NotImplementedException();
+            return a + b;
         }
 
         public static int Sub(int a, int b)
         {
-            //TODO :Delete line below and write your own solution 
-            throw new NotImplementedException();
+            return a - b;
         }
     }
 }
